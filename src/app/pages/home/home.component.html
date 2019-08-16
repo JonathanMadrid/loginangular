@@ -1,0 +1,22 @@
+<div class="m-5">
+
+    <h1>Bienvenido</h1>
+    <hr>
+
+
+    <div class="container" *ngIf="respuesta">
+
+        <h3>Correo: {{respuesta.email}}</h3>
+        <h3>Nombre: {{respuesta.name}}</h3>
+        <h3>Mensaje: {{respuesta.message}}</h3>
+        <h3>Estado: {{respuesta.statusUser}}</h3>
+        <h3>Resgitrado: {{respuesta.find}}</h3>
+    </div>
+
+
+
+    <button class="btn btn-outline-danger" (click)="salir()">
+    Salir
+  </button>
+
+</div>

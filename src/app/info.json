@@ -1,0 +1,33 @@
+{
+    "users": [{
+            "user": "jonathan@gmail.com",
+            "password": "123456",
+            "name": "Jonathan Madrid",
+            "date": "12334"
+        },
+        {
+            "user": "juna@gmail.com",
+            "password": "123456",
+            "name": "Juan Hernandez",
+            "date": "12334"
+        },
+        {
+            "user": "alejo@gmail.com",
+            "password": "123456",
+            "name": "Alejandro Munera",
+            "date": "12334"
+        },
+        {
+            "user": "brayan@gmail.com",
+            "password": "123456",
+            "name": "Brayan Arcila",
+            "date": "12334"
+        },
+        {
+            "user": "juanca@gmail.com",
+            "password": "123456",
+            "name": "Juan Carlos Cardona",
+            "date": "12334"
+        }
+    ]
+}
